@@ -10,5 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/rskapadiadev/macros-constants.git"
   },
+  "homepage": "https://github.com/rskapadiadev/macros-constants#readme",
   "keywords": ["macros-constants", "constants"]
 }
