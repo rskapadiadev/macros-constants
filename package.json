@@ -1,0 +1,14 @@
+{
+  "name": "macros-constants",
+  "version": "0.0.1",
+  "description": "Constants for Macros App",
+  "main": "index.js",
+  "author": "Rishi Kapadia",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rskapadiadev/macros-constants.git"
+  },
+  "keywords": ["macros-constants", "constants"]
+}
